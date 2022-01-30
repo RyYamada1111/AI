@@ -1,0 +1,24 @@
+「データを集める」→「学習済みモデルを作る」→「サービスに組み込む」というAIの作り方の3つのステップ
+
+「データを集める」
+ 対象のデータ
+
+「学習済みモデルを作る」
+下記のツールに集めたデータを食わすとできる。
+機械学習ツール一覧
+・Azure ML（Machine Learning）
+・Amazon Machine Learning
+・Google Prediction API
+・Dialogflow
+・Orange
+・TensorFlow
+・Chainer
+・Caffe
+・DeepDream
+・scik it-learn
+・Jubatus
+・mahout
+・Spark MLlib
+・Matlab
+
+
